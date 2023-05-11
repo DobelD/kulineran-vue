@@ -1,0 +1,32 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.router-link-exact-active {
+    font-weight: 700;
+    color: #2B3A55;
+
+}
+
+
+/* .nav-link {
+    font-weight: 500;
+    color: #9BA4B5;
+} */
+
+.btn-success {
+    background-color: #4EB883;
+}
+
+.badge-success {
+    background-color: #4EB883;
+}
+
+.card-product {
+    border-radius: 15px;
+}
+
+.card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
